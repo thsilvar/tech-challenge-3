@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pymongo==4.8.0
+pandas==2.2.2
+numpy==2.1.0
+scikit-learn==1.5.1
+joblib==1.4.2
+yfinance>=0.2.52
+python-multipart==0.0.12
+pandas-datareader==0.10.0
+requests==2.32.3
+urllib3==2.2.2
+
