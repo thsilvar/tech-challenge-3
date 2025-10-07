@@ -1,5 +1,5 @@
 
-# Tech Challenge Fase 3 — API + ML (B3/IBOV) — Dev Container Ready
+# Tech Challenge Fase 
 
 
 source .venv/Scripts/activate

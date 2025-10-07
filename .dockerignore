@@ -6,3 +6,4 @@ __pycache__/
 models/
 data/
 notebooks/
+gcloud builds submit --tag gcr.io/projeto-ia-436521/tech-challenge-api

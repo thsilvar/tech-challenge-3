@@ -5,9 +5,9 @@ from app.routes import market, stocks, train
 app = FastAPI(
     title="Stock ML API",
     version="1.0",
-    docs_url="/swagger-ui.html",  # muda /docs -> /swagger-ui.html
-    redoc_url="/redoc",           # opcional, já é o default
-    openapi_url="/openapi.json",  # opcional, já é o default
+    docs_url="/swagger-ui.html",
+    redoc_url="/redoc",
+    openapi_url="/openapi.json",
 )
 
 @app.get("/")
